@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="moca">
+    <file>pic1.jpeg</file>
+    <file>pic.jpeg</file>
+    <file>pic2.jpg</file>
+  </qresource>
+</RCC>
